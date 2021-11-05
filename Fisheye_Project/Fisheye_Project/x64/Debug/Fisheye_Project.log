@@ -1,0 +1,12 @@
+﻿  test.cpp
+C:\Users\liyong\source\repos\Fisheye_Project\Fisheye_Project\test.cpp(42,35): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\liyong\source\repos\Fisheye_Project\Fisheye_Project\test.cpp(42,28): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  Fisheye_Project.vcxproj -> C:\Users\liyong\source\repos\Fisheye_Project\x64\Debug\Fisheye_Project.exe
